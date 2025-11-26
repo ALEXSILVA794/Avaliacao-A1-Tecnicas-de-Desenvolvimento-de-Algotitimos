@@ -156,3 +156,42 @@ listas-alunos/
 
 ## 👤 Autor
 Projeto desenvolvido por Alex Paulo como atividade prática de Python.
+
+# Cadastro de Produtos – Dicionários em Python
+
+## 📌 Descrição
+Este projeto implementa um sistema simples para cadastrar produtos com *nome* e *preço, armazenando as informações em um **dicionário (dict)*.  
+A atividade faz parte do módulo de aprendizagem sobre manipulação de dicionários em Python.
+
+---
+
+## 🚀 Funcionalidades
+- Cadastro de produtos com nome e preço
+- Armazenamento em dict()
+- Inserção e recuperação de dados
+- Impressão organizada dos itens cadastrados
+
+---
+
+## 📦 Como executar
+1. Certifique-se de ter o Python instalado.
+2. Execute no terminal:
+
+bash
+python cadastro_produtos.py
+
+
+---
+
+## 📁 Estrutura do projeto
+
+dicionario-produtos/
+│
+├── cadastro_produtos.py
+└── README.md
+
+
+---
+
+## 👤 Autor
+Projeto desenvolvido por Alex Paulo como atividade prática de Python.
