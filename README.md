@@ -117,3 +117,42 @@ Exercitar:
 
 ## 👤 Autor
 Projeto desenvolvido por Alex Paulo como atividade prática de Python.
+
+# Sistema de Cadastro de Alunos – Listas em Python
+
+## 📌 Descrição
+Este projeto recebe nomes de alunos inseridos pelo usuário, armazena todos em uma *lista* e exibe todos os nomes ao final.  
+O exercício faz parte do módulo de estudo sobre *listas, entrada dinâmica de dados e iteração em Python*.
+
+---
+
+## 🚀 Funcionalidades
+- Entrada ilimitada de nomes
+- Uso adequado de listas
+- Impressão organizada dos elementos
+- Loop dinâmico usando while
+
+---
+
+## 📦 Como executar
+1. Tenha o Python instalado.
+2. Execute no terminal:
+
+bash
+python alunos_lista.py
+
+
+---
+
+## 📁 Estrutura
+
+listas-alunos/
+│
+├── alunos_lista.py
+└── README.md
+
+
+---
+
+## 👤 Autor
+Projeto desenvolvido por Alex Paulo como atividade prática de Python.
