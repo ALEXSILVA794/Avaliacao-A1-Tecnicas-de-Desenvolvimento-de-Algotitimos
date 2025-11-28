@@ -147,9 +147,8 @@ python alunos_lista.py
 ## 📁 Estrutura
 
 listas-alunos/
-│
-├── alunos_lista.py
-└── README.md
+ alunos_lista.py
+ README.md
 
 
 ---
@@ -186,9 +185,9 @@ python cadastro_produtos.py
 ## 📁 Estrutura do projeto
 
 dicionario-produtos/
-│
-├── cadastro_produtos.py
-└── README.md
+
+ cadastro_produtos.py
+README.md
 
 
 ---
